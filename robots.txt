@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /__debug
+Disallow: /api/
+Disallow: /corrections/
+Disallow: /master
+
+Sitemap: https://huarun.win/sitemap.xml
+Host: https://huarun.win

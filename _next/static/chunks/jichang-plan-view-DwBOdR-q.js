@@ -1,0 +1,1 @@
+import{t as e}from"./jichang-plan-filter-B2ksFmxW.js";function t(t){return Object.hasOwn(e,t.billing_period)?e[t.billing_period]:t.billing_period}export{t};
