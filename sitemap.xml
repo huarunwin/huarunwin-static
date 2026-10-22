@@ -21,7 +21,7 @@
 <url><loc>https://huarun.win/core/unknown</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/open-source</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/closed-source</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/incomplete-source</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/incomplete-source</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/free</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/servers</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/subscription-tools</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -54,7 +54,7 @@
 <url><loc>https://huarun.win/apps/shellcrash</loc><lastmod>2026-10-14T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/clash-nyanpasu</loc><lastmod>2024-09-07T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/streisand</loc><lastmod>2026-10-14T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/apps/passwall</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/apps/passwall</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/outline</loc><lastmod>2026-10-16T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/gui-for-singbox</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/sparkle</loc><lastmod>2026-09-30T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -151,7 +151,7 @@
 <url><loc>https://huarun.win/apps/bamboo-dragonfly</loc><lastmod>2026-09-17T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/xtunnel</loc><lastmod>2026-03-06T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/v2rage</loc><lastmod>2026-10-05T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/apps/openvxs</loc><lastmod>2026-08-07T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/apps/openvxs</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/dash-vpn</loc><lastmod>2026-03-25T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/ship</loc><lastmod>2024-10-16T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/voxiproxytun</loc><lastmod>2026-10-09T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -194,7 +194,7 @@
 <url><loc>https://huarun.win/apps/stash-for-mac</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/stash-for-android</loc><lastmod>2026-10-13T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/stash-for-windows</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-<url><loc>https://huarun.win/apps/huarunwin</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://huarun.win/apps/huarunwin</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/servers/3x-ui</loc><lastmod>2026-10-14T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/x-ui-alireza0</loc><lastmod>2026-10-10T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/s-ui</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
