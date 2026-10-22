@@ -192,6 +192,7 @@ https://huarun.win/apps/fluxora
 https://huarun.win/apps/stash-for-mac
 https://huarun.win/apps/stash-for-android
 https://huarun.win/apps/stash-for-windows
+https://huarun.win/apps/huarunwin
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
