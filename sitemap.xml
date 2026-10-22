@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://huarun.win/</loc><lastmod>2026-10-22T06:56:10.000Z</lastmod><changefreq>weekly</changefreq><priority>1</priority></url>
+<url><loc>https://huarun.win/</loc><lastmod>2026-10-22T09:48:47.000Z</lastmod><changefreq>weekly</changefreq><priority>1</priority></url>
 <url><loc>https://huarun.win/devices/steam-deck</loc><lastmod>2025-03-17T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/routers</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/platform/android</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/platform/ios</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/platform/ios</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/platform/windows</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/platform/macos</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/platform/linux</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -18,14 +18,14 @@
 <url><loc>https://huarun.win/core/xray</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/core/v2ray</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/core/native</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/core/unknown</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/core/unknown</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/open-source</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/closed-source</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/closed-source</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/incomplete-source</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/free</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/servers</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/subscription-tools</loc><lastmod>2026-10-21T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/rules</loc><lastmod>2026-10-22T06:56:10.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/rules</loc><lastmod>2026-10-22T09:48:47.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/apps/shadowrocket</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/clash-verge-rev</loc><lastmod>2026-10-13T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/v2rayn</loc><lastmod>2026-10-13T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -155,7 +155,7 @@
 <url><loc>https://huarun.win/apps/dash-vpn</loc><lastmod>2026-03-25T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/ship</loc><lastmod>2024-10-16T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/voxiproxytun</loc><lastmod>2026-10-09T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/apps/vpsus</loc><lastmod>2026-10-13T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://huarun.win/apps/vpsus</loc><lastmod>2026-10-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/clash-lite</loc><lastmod>2026-10-02T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/linkclashx</loc><lastmod>2026-08-19T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/interstellar</loc><lastmod>2026-09-25T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -215,7 +215,7 @@
 <url><loc>https://huarun.win/rules/meta-rules-dat</loc><lastmod>2026-10-22T00:48:29.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/loyalsoldier-clash-rules</loc><lastmod>2026-10-21T22:39:46.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/acl4ssr</loc><lastmod>2026-10-17T02:32:14.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/rules/repcz-tool</loc><lastmod>2026-10-21T09:48:17.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/rules/repcz-tool</loc><lastmod>2026-10-22T09:48:47.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/custom-openclash-rules</loc><lastmod>2026-10-22T06:56:10.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/myclash</loc><lastmod>2026-10-22T05:36:54.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/smart-config-kit</loc><lastmod>2026-10-19T18:40:18.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -237,7 +237,7 @@
 <url><loc>https://huarun.win/rules/yyds-mihomo-config</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/anthropic-claude-rules</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/earoftoast-clash-rules</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/rules/iran-sing-box-rules</loc><lastmod>2026-10-21T09:41:36.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/rules/iran-sing-box-rules</loc><lastmod>2026-10-22T09:40:44.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/iran-clash-rules</loc><lastmod>2026-10-21T10:37:19.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/articles</loc></url>
 <url><loc>https://huarun.win/articles/flclash-install-failed</loc></url>
