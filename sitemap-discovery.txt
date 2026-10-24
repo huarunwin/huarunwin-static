@@ -195,6 +195,7 @@ https://huarun.win/apps/stash-for-android
 https://huarun.win/apps/stash-for-windows
 https://huarun.win/apps/huarunwin
 https://huarun.win/apps/zedsecure
+https://huarun.win/apps/aether
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
@@ -241,3 +242,5 @@ https://huarun.win/rules/iran-sing-box-rules
 https://huarun.win/rules/iran-clash-rules
 https://huarun.win/articles
 https://huarun.win/articles/flclash-install-failed
+https://huarun.win/articles/huarunwin-repackage-apk
+https://huarun.win/articles/flclash-proxy-chain
