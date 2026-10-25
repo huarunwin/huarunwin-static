@@ -210,6 +210,7 @@ https://huarun.win/servers/v2ray-agent
 https://huarun.win/servers/sing-box-script-233boy
 https://huarun.win/servers/xray-install
 https://huarun.win/servers/outline-server
+https://huarun.win/servers/singbox-lite
 https://huarun.win/subscription-tools/tower
 https://huarun.win/subscription-tools/sub-store
 https://huarun.win/rules/blackmatrix7-rules
