@@ -4,6 +4,7 @@ https://huarun.win/devices/steam-deck
 https://huarun.win/routers
 https://huarun.win/platform/android
 https://huarun.win/platform/ios
+https://huarun.win/platform/tvos
 https://huarun.win/platform/windows
 https://huarun.win/platform/macos
 https://huarun.win/platform/linux
