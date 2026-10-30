@@ -1,1 +1,0 @@
-import{r as e}from"./framework-D_rUT4EX.js";var t=e();function n({children:e,href:n,...r}){return(0,t.jsx)(`a`,{href:n,...r,children:e})}export{n as t};
