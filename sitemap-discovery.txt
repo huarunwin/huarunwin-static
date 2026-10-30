@@ -248,6 +248,7 @@ https://huarun.win/rules/anthropic-claude-rules
 https://huarun.win/rules/earoftoast-clash-rules
 https://huarun.win/rules/iran-sing-box-rules
 https://huarun.win/rules/iran-clash-rules
+https://huarun.win/rules/lowertop-shadowrocket
 https://huarun.win/articles
 https://huarun.win/articles/flclash-install-failed
 https://huarun.win/articles/huarunwin-repackage-apk
