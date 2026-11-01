@@ -1,0 +1,1 @@
+function e(e,t,n){return e.find(e=>e.id===n&&e.platforms.includes(t))??e.find(e=>e.platforms.includes(t))}function t(t,n){return n.releaseChannel?t.find(e=>e.id===n.releaseChannel&&e.platforms.includes(n.platform)):e(t,n.platform)}function n(n,r){return!n?.length||t(n,r)?.id===e(n,r.platform)?.id}Object.freeze({iphone:`iOS`,mac:`macOS`,tv:`tvOS`});export{t as n,e as r,n as t};
