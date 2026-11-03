@@ -199,6 +199,7 @@ https://huarun.win/apps/zedsecure
 https://huarun.win/apps/aether
 https://huarun.win/apps/v2rayh
 https://huarun.win/apps/kilobat-cli
+https://huarun.win/apps/flrone
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
