@@ -156,7 +156,6 @@ https://huarun.win/apps/dash-vpn
 https://huarun.win/apps/ship
 https://huarun.win/apps/voxiproxytun
 https://huarun.win/apps/vpsus
-https://huarun.win/apps/clash-lite
 https://huarun.win/apps/linkclashx
 https://huarun.win/apps/interstellar
 https://huarun.win/apps/aerobox-for-android
