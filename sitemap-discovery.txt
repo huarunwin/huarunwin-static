@@ -222,6 +222,7 @@ https://huarun.win/servers/argosbx
 https://huarun.win/servers/sing-box-yg
 https://huarun.win/servers/edgetunnel
 https://huarun.win/servers/mistgate
+https://huarun.win/servers/singbox-deploy
 https://huarun.win/subscription-tools/tower
 https://huarun.win/subscription-tools/sub-store
 https://huarun.win/subscription-tools/subs-free
