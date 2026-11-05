@@ -202,6 +202,7 @@ https://huarun.win/apps/flrone
 https://huarun.win/apps/clash-of-rust
 https://huarun.win/apps/throne-for-android
 https://huarun.win/apps/throne-for-android-own716-fork
+https://huarun.win/apps/angela-mihomo
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
