@@ -333,6 +333,7 @@ https://huarun.win/servers/edgetunnel
 https://huarun.win/servers/mistgate
 https://huarun.win/servers/singbox-deploy
 https://huarun.win/servers/neko-master
+https://huarun.win/servers/xboard
 https://huarun.win/subscription-tools/tower
 https://huarun.win/subscription-tools/sub-store
 https://huarun.win/subscription-tools/subs-free
