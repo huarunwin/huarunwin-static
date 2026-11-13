@@ -316,6 +316,7 @@ https://huarun.win/apps/keqdroid
 https://huarun.win/apps/nextbox
 https://huarun.win/apps/nextbox-for-android
 https://huarun.win/apps/opensurge-for-mac
+https://huarun.win/apps/goodbyedpi
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
