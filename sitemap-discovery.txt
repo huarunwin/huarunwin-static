@@ -242,6 +242,7 @@ https://huarun.win/apps/goodbyedpi
 https://huarun.win/apps/phantomsocks
 https://huarun.win/apps/sni-bypass-gui
 https://huarun.win/apps/sheas-cealer
+https://huarun.win/apps/honk
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
