@@ -246,6 +246,8 @@
 <url><loc>https://huarun.win/apps/sheas-cealer</loc><lastmod>2024-12-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/honk</loc><lastmod>2026-11-08T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/lanekeep</loc><lastmod>2026-11-16T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://huarun.win/apps/nakis</loc><lastmod>2026-11-17T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://huarun.win/apps/sakurabox</loc><lastmod>2026-11-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/servers/3x-ui</loc><lastmod>2026-10-25T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/x-ui-alireza0</loc><lastmod>2026-10-24T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/s-ui</loc><lastmod>2026-10-31T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -309,7 +311,7 @@
 <url><loc>https://huarun.win/articles/huarunwin-repackage-apk</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/flclash-proxy-chain</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/3x-ui-reality-vision</loc><lastmod>2026-10-25</lastmod></url>
-<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-14</lastmod></url>
+<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://huarun.win/wiki/100tb</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aaitr</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aethercloud</loc><lastmod>2026-11-09</lastmod></url>
@@ -734,4 +736,12 @@
 <url><loc>https://huarun.win/wiki/apps/clashoo</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/apps/geph</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/apps/huarunwin</loc><lastmod>2026-11-14</lastmod></url>
+<url><loc>https://huarun.win/wiki/nakis</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/nakis-core</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/nakis-app</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/sing-nakis</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/nakis-killer</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/sakurabox</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/n-yarvex</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/xingmingname</loc><lastmod>2026-11-19</lastmod></url>
 </urlset>

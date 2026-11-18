@@ -244,6 +244,8 @@ https://huarun.win/apps/sni-bypass-gui
 https://huarun.win/apps/sheas-cealer
 https://huarun.win/apps/honk
 https://huarun.win/apps/lanekeep
+https://huarun.win/apps/nakis
+https://huarun.win/apps/sakurabox
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
@@ -732,3 +734,11 @@ https://huarun.win/wiki/apps/luci-app-sing
 https://huarun.win/wiki/apps/clashoo
 https://huarun.win/wiki/apps/geph
 https://huarun.win/wiki/apps/huarunwin
+https://huarun.win/wiki/nakis
+https://huarun.win/wiki/nakis-core
+https://huarun.win/wiki/nakis-app
+https://huarun.win/wiki/sing-nakis
+https://huarun.win/wiki/nakis-killer
+https://huarun.win/wiki/sakurabox
+https://huarun.win/wiki/n-yarvex
+https://huarun.win/wiki/xingmingname
