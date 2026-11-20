@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://huarun.win/</loc><lastmod>2026-11-20T09:17:46.000Z</lastmod><changefreq>weekly</changefreq><priority>1</priority></url>
+<url><loc>https://huarun.win/</loc><lastmod>2026-11-20T11:00:51.000Z</lastmod><changefreq>weekly</changefreq><priority>1</priority></url>
 <url><loc>https://huarun.win/download</loc><lastmod>2026-10-24T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/devices/steam-deck</loc><lastmod>2025-03-17T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/routers</loc><lastmod>2026-11-20T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -27,7 +27,7 @@
 <url><loc>https://huarun.win/free</loc><lastmod>2026-11-20T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/servers</loc><lastmod>2026-11-20T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/subscription-tools</loc><lastmod>2026-11-19T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://huarun.win/rules</loc><lastmod>2026-11-20T09:17:46.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://huarun.win/rules</loc><lastmod>2026-11-20T11:00:51.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/wiki</loc><lastmod>2026-11-09T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://huarun.win/apps/shadowrocket</loc><lastmod>2026-10-30T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/clash-verge-rev</loc><lastmod>2026-11-03T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -58,7 +58,7 @@
 <url><loc>https://huarun.win/apps/clash-nyanpasu</loc><lastmod>2026-10-31T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/streisand</loc><lastmod>2026-11-11T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/passwall</loc><lastmod>2026-11-10T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/apps/outline</loc><lastmod>2026-11-04T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/apps/outline</loc><lastmod>2026-11-19T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/gui-for-singbox</loc><lastmod>2026-11-10T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/sparkle</loc><lastmod>2026-10-31T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/apps/throne</loc><lastmod>2026-11-14T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -206,7 +206,7 @@
 <url><loc>https://huarun.win/apps/throne-for-android</loc><lastmod>2026-11-14T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/throne-for-android-own716-fork</loc><lastmod>2026-11-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/angela-mihomo</loc><lastmod>2026-11-19T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-<url><loc>https://huarun.win/apps/bowel</loc><lastmod>2026-11-18T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://huarun.win/apps/bowel</loc><lastmod>2026-11-20T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/keqdroid</loc><lastmod>2026-11-19T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/nextbox</loc><lastmod>2026-11-18T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 <url><loc>https://huarun.win/apps/nextbox-for-android</loc><lastmod>2026-11-18T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -252,7 +252,7 @@
 <url><loc>https://huarun.win/rules/loyalsoldier-clash-rules</loc><lastmod>2026-11-19T22:34:53.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/acl4ssr</loc><lastmod>2026-11-20T05:15:37.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/repcz-tool</loc><lastmod>2026-11-20T02:56:31.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://huarun.win/rules/custom-openclash-rules</loc><lastmod>2026-11-20T09:17:46.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/rules/custom-openclash-rules</loc><lastmod>2026-11-20T11:00:51.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/myclash</loc><lastmod>2026-10-29T07:11:52.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/smart-config-kit</loc><lastmod>2026-11-09T22:46:48.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/rules/proxyresource</loc><lastmod>2026-10-15T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -282,7 +282,7 @@
 <url><loc>https://huarun.win/articles/huarunwin-repackage-apk</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/flclash-proxy-chain</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/3x-ui-reality-vision</loc><lastmod>2026-10-25</lastmod></url>
-<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://huarun.win/wiki/100tb</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aaitr</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aethercloud</loc><lastmod>2026-11-09</lastmod></url>
@@ -346,7 +346,7 @@
 <url><loc>https://huarun.win/wiki/shadowquic</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://huarun.win/wiki/shadowsocks</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://huarun.win/wiki/shadowsocksr</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://huarun.win/wiki/snell</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://huarun.win/wiki/snell</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://huarun.win/wiki/socks5</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://huarun.win/wiki/ss2022</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://huarun.win/wiki/ss2022-shadowtls</loc><lastmod>2026-11-08</lastmod></url>
@@ -521,7 +521,7 @@
 <url><loc>https://huarun.win/wiki/madeye</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/clowwindy</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/phuslu</loc><lastmod>2026-11-14</lastmod></url>
-<url><loc>https://huarun.win/wiki/mihomo</loc><lastmod>2026-11-14</lastmod></url>
+<url><loc>https://huarun.win/wiki/mihomo</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://huarun.win/wiki/sing-box</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/xray</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/v2ray</loc><lastmod>2026-11-14</lastmod></url>
@@ -549,7 +549,7 @@
 <url><loc>https://huarun.win/wiki/clash-meta-for-android</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/stash</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/sing-box-app</loc><lastmod>2026-11-14</lastmod></url>
-<url><loc>https://huarun.win/wiki/surge</loc><lastmod>2026-11-14</lastmod></url>
+<url><loc>https://huarun.win/wiki/surge</loc><lastmod>2026-11-20</lastmod></url>
 <url><loc>https://huarun.win/wiki/quantumult-x</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/loon</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://huarun.win/wiki/shadowsocks-android</loc><lastmod>2026-11-14</lastmod></url>
