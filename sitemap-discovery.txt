@@ -243,6 +243,7 @@ https://huarun.win/servers/sssingbox
 https://huarun.win/servers/v2ray-wss
 https://huarun.win/servers/clashgate
 https://huarun.win/servers/m-ui
+https://huarun.win/servers/mintyx
 https://huarun.win/subscription-tools/tower
 https://huarun.win/subscription-tools/sub-store
 https://huarun.win/subscription-tools/subs-free
@@ -744,3 +745,4 @@ https://huarun.win/wiki/sheas-cealer
 https://huarun.win/wiki/honk-app
 https://huarun.win/wiki/lanekeep
 https://huarun.win/wiki/honk
+https://huarun.win/wiki/link2theworld

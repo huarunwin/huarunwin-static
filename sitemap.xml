@@ -245,6 +245,7 @@
 <url><loc>https://huarun.win/servers/v2ray-wss</loc><lastmod>2026-11-02T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/clashgate</loc><lastmod>2026-11-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/servers/m-ui</loc><lastmod>2026-11-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://huarun.win/servers/mintyx</loc><lastmod>2026-11-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/subscription-tools/tower</loc><lastmod>2026-11-20T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/subscription-tools/sub-store</loc><lastmod>2026-11-22T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://huarun.win/subscription-tools/subs-free</loc><lastmod>2026-11-15T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -284,7 +285,7 @@
 <url><loc>https://huarun.win/articles/huarunwin-repackage-apk</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/flclash-proxy-chain</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://huarun.win/articles/3x-ui-reality-vision</loc><lastmod>2026-10-25</lastmod></url>
-<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-20</lastmod></url>
+<url><loc>https://huarun.win/wiki/catalog</loc><lastmod>2026-11-23</lastmod></url>
 <url><loc>https://huarun.win/wiki/100tb</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aaitr</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://huarun.win/wiki/aethercloud</loc><lastmod>2026-11-09</lastmod></url>
@@ -746,4 +747,5 @@
 <url><loc>https://huarun.win/wiki/honk-app</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://huarun.win/wiki/lanekeep</loc><lastmod>2026-11-19</lastmod></url>
 <url><loc>https://huarun.win/wiki/honk</loc><lastmod>2026-11-19</lastmod></url>
+<url><loc>https://huarun.win/wiki/link2theworld</loc><lastmod>2026-11-23</lastmod></url>
 </urlset>
