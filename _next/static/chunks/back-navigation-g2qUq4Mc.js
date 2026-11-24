@@ -1,1 +1,0 @@
-function e(){let e=!1;if(document.referrer)try{e=new URL(document.referrer,window.location.href).origin===window.location.origin}catch{e=!1}return e&&window.history.length>1}export{e as t};
