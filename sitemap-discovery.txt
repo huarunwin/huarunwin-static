@@ -218,6 +218,7 @@ https://huarun.win/apps/lanekeep
 https://huarun.win/apps/nakis
 https://huarun.win/apps/sakurabox
 https://huarun.win/apps/mio
+https://huarun.win/apps/sockrocket
 https://huarun.win/servers/3x-ui
 https://huarun.win/servers/x-ui-alireza0
 https://huarun.win/servers/s-ui
@@ -748,3 +749,4 @@ https://huarun.win/wiki/lanekeep
 https://huarun.win/wiki/honk
 https://huarun.win/wiki/link2theworld
 https://huarun.win/wiki/mio
+https://huarun.win/wiki/sockrocket
