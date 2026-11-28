@@ -216,7 +216,6 @@ https://huarun.win/apps/honk
 https://huarun.win/apps/lanekeep
 https://huarun.win/apps/nakis
 https://huarun.win/apps/sakurabox
-https://huarun.win/apps/mio
 https://huarun.win/apps/sockrocket
 https://huarun.win/apps/nekobox-next
 https://huarun.win/servers/3x-ui
