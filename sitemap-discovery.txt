@@ -140,7 +140,6 @@ https://huarun.win/apps/meow-android
 https://huarun.win/apps/neko-for-openwrt
 https://huarun.win/apps/monadbox
 https://huarun.win/apps/ownbox
-https://huarun.win/apps/clash-xiaoy
 https://huarun.win/apps/orbit-x
 https://huarun.win/apps/v2box
 https://huarun.win/apps/akashaproxy
